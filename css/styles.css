@@ -50,3 +50,7 @@ body {
     height: 130%;
     object-fit: cover;
 }
+
+.contenedor {
+    padding-top: 50px;
+}
