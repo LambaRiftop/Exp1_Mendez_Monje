@@ -26,17 +26,8 @@
     border-radius: 5px;
 
 }
-/* Fin del carousel */
 
-/* Navbar */
-.navbar-custom {
-    background-color: #b38867;
-}
-
-body {
-    background: #cdcdc0;
-}
-
+/*Imagenes*/
 .c-item {
     height: 320px;
 }
@@ -45,12 +36,20 @@ body {
     height: 100%;
     object-fit: cover;
 }
+/* Fin del carousel */
 
-.imagen2 {
-    height: 130%;
-    object-fit: cover;
+/* Navbar */
+.navbar-custom {
+    background-color: #b38867;
+}
+/*Fin del NavBar*/
+
+body {
+    background: #cdcdc0;
 }
 
+/*Orden de la galeria*/
 .contenedor {
     padding: 50px;
 }
+/*Fin del orden de la galeria*/
