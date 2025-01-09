@@ -1,0 +1,21 @@
+.navbar-custom {
+    background-color: #b38867;
+}
+
+body {
+    background: #cdcdc0;
+}
+
+.c-item {
+    height: 320px;
+}
+
+.imagen {
+    height: 100%;
+    object-fit: cover;
+}
+
+.imagen2 {
+    height: 130%;
+    object-fit: cover;
+}
