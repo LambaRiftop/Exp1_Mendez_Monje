@@ -1,0 +1,29 @@
+/* Carousel */
+.carousel-caption {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 1em;
+    text-shadow: 2px 2px 4px #000000;
+    text-align: center;
+}
+
+/* Artesanias del Corazon */
+.carousel-caption h4 {
+    color: paleturquoise;
+    font-size: 3em;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Slogan */
+.carousel-caption p {
+    color: palevioletred;
+    font-size: 2em;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+/* Fin del carousel */
