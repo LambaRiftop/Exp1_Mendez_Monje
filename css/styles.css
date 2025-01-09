@@ -59,6 +59,8 @@ body {
 /*Orden de la galeria*/
 .contenedor {
     padding: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 /*Fin del orden de la galeria*/
 
