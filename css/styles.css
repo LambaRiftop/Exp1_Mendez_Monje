@@ -1,7 +1,7 @@
 /* Carousel */
 .carousel-caption {
     position: absolute;
-    top: 50%;
+    top: 35%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: black;
@@ -20,10 +20,33 @@
 
 /* Slogan */
 .carousel-caption p {
-    color: palevioletred;
+    color: rgb(250, 97, 148);
     font-size: 2em;
     padding: 10px;
     border-radius: 5px;
 
 }
 /* Fin del carousel */
+
+/* Navbar */
+.navbar-custom {
+    background-color: #b38867;
+}
+
+body {
+    background: #cdcdc0;
+}
+
+.c-item {
+    height: 320px;
+}
+
+.imagen {
+    height: 100%;
+    object-fit: cover;
+}
+
+.imagen2 {
+    height: 130%;
+    object-fit: cover;
+}
