@@ -54,3 +54,20 @@ body {
 .contenedor {
     padding-top: 50px;
 }
+
+/* historia */
+
+.bio img {
+    max-height: 300px;
+    object-fit: cover;
+}
+
+.bio h3 {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+.bio p {
+    color: black;
+    text-align: center;
+}
