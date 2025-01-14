@@ -1,4 +1,16 @@
-/* Carousel */
+body {
+    background: #cdcdc0;
+}
+
+
+/*NOTE Navbar */
+.navbar-custom {
+    background-color: #b38867;
+}
+/*Fin del NavBar*/
+
+
+/*NOTE Carousel */
 .carousel-caption {
     position: absolute;
     top: 35%;
@@ -18,6 +30,7 @@
     border-radius: 5px;
 }
 
+
 /* Slogan */
 .carousel-caption p {
     color: rgb(250, 97, 148);
@@ -26,8 +39,10 @@
     border-radius: 5px;
 
 }
+/* Fin del carousel */
 
-/*Imagenes*/
+
+/*NOTE Inicio Galeria*/
 .c-item {
     height: 320px;
 }
@@ -38,23 +53,18 @@
 }
 /*Fin del orden de la galeria*/
 
-/* historia */
+
+
+/*NOTE historia */
 
 .bio img {
     max-height: 300px;
     object-fit: cover;
 }
-/* Fin del carousel */
 
-/* Navbar */
-.navbar-custom {
-    background-color: #b38867;
-}
-/*Fin del NavBar*/
 
-body {
-    background: #cdcdc0;
-}
+
+
 
 /*Orden de la galeria*/
 .contenedor {
@@ -64,11 +74,16 @@ body {
 }
 /*Fin del orden de la galeria*/
 
+
+
+
+
 /* historia */
 
 .bio img {
     max-height: 300px;
     object-fit: cover;
+    height: 1000px;  /* Ajustar tamaño imagenes */
 }
 
 .bio h3 {
